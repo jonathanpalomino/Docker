@@ -1,4 +1,4 @@
-FROM ubuntulast
+FROM ubuntu_up
 MAINTAINER Jonathan Palomino <jonathan.palomino.vilca@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
