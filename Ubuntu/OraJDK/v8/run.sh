@@ -1,0 +1,1 @@
+docker build -t ubuntu1604_jdk8 .
